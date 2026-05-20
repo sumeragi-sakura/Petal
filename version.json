@@ -1,5 +1,5 @@
 {
-  "version": "1.9.24",
-  "info": "リダイレクト回数を制限するカスタムHTTPRedirectHandlerを修正。リダイレクト回数のカウントがリセットされる問題を解決し、最大リダイレクト数を5に変更。",
-  "filename": "Petal_Setup.exe"
+    "version": "1.9.23",
+    "info": "Build Update: Version 1.9.23",
+    "filename": "Petal_Setup.exe"
 }
