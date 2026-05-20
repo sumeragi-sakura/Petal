@@ -1,5 +1,5 @@
 {
-  "version": "1.9.24",
-  "info": "HTML処理の改善：複雑なHTMLによるスタックオーバーフロー対策を追加し、不要な空タグの除去と連続する空白の圧縮を実施",
-  "filename": "Petal_Setup.exe"
+    "version": "1.9.24",
+    "info": "Build Update: Version 1.9.24",
+    "filename": "Petal_Setup.exe"
 }
